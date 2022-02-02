@@ -1,0 +1,16 @@
+frameworkcore
+frameworkcore.batchjobtools
+frameworkcore.dbtools
+frameworkcore.errormanagers
+frameworkcore.excelreaders
+frameworkcore.executors
+frameworkcore.interfaces
+frameworkcore.reportutilities
+frameworkcore.syslogcapturetools
+frameworkcore.testdatamanagement
+frameworkcore.testthread
+frameworkextensions.applicationhandler
+frameworkextensions.methods
+frameworkextensions.methods.javaflows.pageobjects
+frameworkextensions.screenelementhandlers
+frameworkextensions.screenelementhandlers.utilities

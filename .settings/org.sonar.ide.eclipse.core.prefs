@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=sonar.host.url\=http\://OAGCS4AV-PWBS02.csnt.csnet.gov\:9000/t2sonar\r\nsonar.login\=admin\r\nsonar.jdbc.driver\=com.mysql.jdbc.Driver\r\nsonar.password\=SONARqube
+projectKey=T2_Automation\:T2_Automation_v3
+serverUrl=http\://localhost\:9000
+version=2

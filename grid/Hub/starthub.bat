@@ -1,0 +1,1 @@
+cmd.exe /c start "GRID Hub" java  -jar selenium-server-standalone-3.141.59.jar -role hub -hubConfig hubconfig.json 
